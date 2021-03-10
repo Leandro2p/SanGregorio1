@@ -1,0 +1,26 @@
+							<option value = "Enfermeria Medica y Especialidades">Enfermeria Medica y Especialidades</option>
+							<option value = "Enfermeria Materno Infanto Juvenil">Enfermeria Materno Infanto Juvenil</option>
+							<option value = "Practica de Enfermeria Basica y en Salud Comunitaria">Practica de Enfermeria Basica y en Salud Comunitaria</option>
+							<option value = "Practica Medica y Especialidades">Practica Medica y Especialidades</option>
+							<option value = "Practica de Enfermeria Materno Infanto Juvenil">Practica de Enfermeria Materno Infanto Juvenil</option>
+							<option value = "Morfofisiologia">Morfofisiologia</option>
+							<option value = "Etica y Bioética">Etica y Bioética</option>
+							<option value = "Tecnologias de la Informacion y Comunicacion">Tecnologias de la Informacion y Comunicacion</option>
+							<option value = "Comunicación Oral y Escrita">Comunicación Oral y Escrita</option>
+							<option value = "Farmacología">Farmacología</option>
+							<option value = "Organizacion y Gestion en Enfermeria">Organizacion y Gestion en Enfermeria</option>
+							<option value = "Microbiologia y Parasitología">Microbiologia y Parasitología</option>
+							<option value = "Nutrición">Nutrición</option>
+							<option value = "Ingles II">Ingles II</option>
+							<option value = "Biofísica">Biofísica</option>
+							<option value = "Enfermeria Quirurjica y Especialidades">Enfermeria Quirurjica y Especialidades</option>
+							<option value = "Enfermeria en Salud Mental y Psiquiatria">Enfermeria en Salud Mental y Psiquiatria</option>
+							<option value = "Filosofía y Antropologia Sociocultural">Filosofía y Antropologia Sociocultural</option>
+							<option value = "Marco Legal en la Practica de Enfermeria">Marco Legal en la Practica de Enfermeria</option>
+							<option value = "Practica de Enfermeria en Salud Mental y Psiquiatria">Practica de Enfermeria en Salud Mental y Psiquiatria</option>
+							<option value = "Psicologia Evolutiva">Psicologia Evolutiva</option>
+							<option value = "Psicologia Social">Psicologia Social</option>
+							<option value = "Integracion de la Practica Profesional">Integracion de la Practica Profesional</option>
+							<option value = "Química Bíologica">Química Bíologica</option>
+							<option value = "Introduccion a la Metodologia de la Investigación">Introduccion a la Metodologia de la Investigación</option>
+						
